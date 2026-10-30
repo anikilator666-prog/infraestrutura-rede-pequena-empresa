@@ -1,0 +1,6 @@
+equipamento;funcao;ipv4;prefixo;gateway;dns;atribuicao
+R1;Gateway e DNS;192.168.50.1;24;WAN conforme provedor;Encaminhamento conforme laboratorio;Fixo LAN
+SW1;Gerenciamento;192.168.50.2;24;192.168.50.1;192.168.50.1;Fixo
+SRV1;Arquivos;192.168.50.10;24;192.168.50.1;192.168.50.1;Fixo
+PRN1;Impressao;192.168.50.20;24;192.168.50.1;192.168.50.1;Fixo
+PC01-PC10;Estacoes;192.168.50.100-192.168.50.149;24;192.168.50.1;192.168.50.1;DHCP
