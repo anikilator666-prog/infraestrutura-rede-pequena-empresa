@@ -1,0 +1,13 @@
+# Saidas locais e informacoes privadas
+resultados-locais/
+*.log
+*.etl
+*.pcap
+*.pcapng
+.env
+.env.*
+*.key
+*.pfx
+*.p12
+Thumbs.db
+Desktop.ini
